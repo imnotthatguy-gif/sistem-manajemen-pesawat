@@ -1,0 +1,12 @@
+name: belajardb
+
+description: Belajar DB
+version: 1.0.0
+
+edition: 3
+
+environment:
+  sdk: '>=3.13.0 <4.0.0'
+
+dependencies:
+  sqlite3: ^3.8.0
