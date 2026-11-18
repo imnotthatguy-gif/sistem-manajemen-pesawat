@@ -13,7 +13,7 @@
     },
     {
       "name": "sqlite3",
-      "version": "3.8.0",
+      "version": "3.9.1",
       "dependencies": [
         "code_assets",
         "collection",
