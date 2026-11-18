@@ -9,4 +9,4 @@ environment:
   sdk: '>=3.13.0 <4.0.0'
 
 dependencies:
-  sqlite3: ^3.8.0
+  sqlite3: ^3.9.1
